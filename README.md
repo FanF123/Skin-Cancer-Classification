@@ -1,1 +1,1 @@
-A Skin Cancer Classification Model with inspiration from CNN's such as ResNet and VGGNet. Images were samples from the International Skin Imaging Collaboration (ISIC).
+A Skin Cancer Classification Model with inspiration from CNN's such as ResNet and VGGNet. Images were samples from the International Skin Imaging Collaboration (ISIC). Model was developed by Henrique and myself for APS360 (Applied Machine Learning)
